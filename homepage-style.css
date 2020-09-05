@@ -1,0 +1,39 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu {
+	width: 100%;
+	background-color: #D9B6A3;
+
+	text-align: center;
+	text-decoration: none;
+	padding: 2% 0%;
+
+	display: flex;
+}
+
+.menu a {
+	padding: 0% 2%;
+}
+
+.card {
+	width: 400px;
+	height: 250px;
+
+	background-color: #EEDCD1;
+	margin: 3%;
+
+	text-align: center;
+}
+
+.card img {
+	width: 200px;
+}
+
+.card:hover{
+	box-shadow: 8px 8px rgba(0,0,0,1);
+}
+
+
